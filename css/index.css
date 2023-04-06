@@ -113,7 +113,7 @@ a {
   -webkit-align-items: center;
   align-items: center;
   transition: 300ms;
-  transform: scale(0.3);
+  transform: scale(0.8)!important;
   opacity: 0.5;
 }
 .get_job_focus .swiper-slide a {
